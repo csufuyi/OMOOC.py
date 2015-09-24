@@ -1,24 +1,7 @@
-# 开智微课Python旗舰班 教程 由来
+# 有关
+~ 汇集这部私人教程未尽体验
 
-- 仓库: 
-- 发布: [Gitbook](https://www.gitbook.com/book/openmindclub/omooc-py/details)
-- 支持: 
-
-## 背景
-
-## 现象
-
-## 方案
-
-### 150317 文档维护流程
-
-大妈实验:
-
-- [collaborate · OpenMindClub/OMOOC.py Wiki](https://github.com/OpenMindClub/OMOOC.py/wiki/collaborate)
-    + [gitbook_double_push · OpenMindClub/OMOOC.py Wiki](https://github.com/OpenMindClub/OMOOC.py/wiki/gitbook_double_push)
-- 不可用...原因,是也乎.......
-
-### TODO
+## TODO
 
 
 ## 参考
@@ -29,5 +12,6 @@
 
 ## (￣▽￣)
 
+- 150924 ZQ 清理为学员模板
 - 150317 迁移用 开智官方 gitbook 身份
 - 150316 ZQ 创建
