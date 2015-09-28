@@ -2,6 +2,8 @@
 ~ 提供给学员一个有序的开始,作为脚手架,作为起点
 test by free
 
+hahhah
+
 提供:
 
 - 一个 gitbook 最小图书框架
