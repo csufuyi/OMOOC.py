@@ -1,4 +1,7 @@
 # 
+
+3 push ok
+
 free 测试推送gitbook组织图书,目前三推
 
 free 测试同名分支及双推成功
