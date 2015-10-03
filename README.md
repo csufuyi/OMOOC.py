@@ -30,3 +30,6 @@
 
 -----
 [学员仓库及作品追踪](https://github.com/OpenMindClub/OMOOC.py/wiki)
+
+
+test sync
